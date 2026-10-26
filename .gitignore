@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+sales_data.csv
+tasks.json
+.DS_Store
+.idea/
+.vscode/
